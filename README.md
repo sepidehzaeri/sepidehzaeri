@@ -1,20 +1,11 @@
-- 👋 Hi, I’m @sepidehzaeri
-- 👀I’m passionate about genetics, bioinformatics, and research that contributes to advancements in health, sustainability, and innovation.
-- 🌱 I’m currently learning Linux, clinical research, and improving the usage of Bioinformatic tools to analyze mRNA and gene expression. 
-- 💞️ I’m looking to collaborate on researchers who are working on clinical research. 
-- 📫 How to reach me: You could email me at sepideh_z20@yahoo.com 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a deep love for classic cars—they’re more than just vehicles to me; they’re time machines.
--   Every time I get behind the wheel of one, it feels like I’m transported back to a bygone era, where life was simpler, style was timeless, and the open road carried a sense of adventure.
--   There’s nothing quite like the hum of an old engine and the charm of vintage design to make me feel connected to the past while fully enjoying the moment.
+Hi, I’m @sepidehzaeri
+I am a bioinformatician and genetics researcher with a strong passion for advancing health, sustainability, and innovation through scientific research. My expertise includes genomic data analysis, bioinformatics, and leveraging computational tools to solve complex biological problems. I aim to contribute to research that improves public health and drives forward the understanding of genetics.
 
+🌱 Currently, I am enhancing my proficiency in Linux and clinical research while refining my skills in bioinformatics tools to analyze mRNA and gene expression. I am deeply committed to applying computational biology techniques to uncover new insights in genetics and clinical research.
 
+💞️ I am actively seeking collaborative opportunities with researchers and institutions focused on genomics, bioinformatics, and clinical research. I aim to contribute to interdisciplinary teams working on high-impact projects that bridge the gap between research and clinical applications.
 
+📫 How to reach me: You can email me at sepideh_z20@yahoo.com
+😄 Pronouns: she/her
 
-
-
-
-<!---
-sepidehzaeri/sepidehzaeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: I have a longstanding interest in classic cars, which I see as timeless designs that blend history, art, and engineering. My connection to vintage cars reflects my appreciation for craftsmanship and my fascination with how innovation has shaped both the past and present.
